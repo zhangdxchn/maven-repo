@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jun 08 13:08:54 CST 2019
-http\://maven.aliyun.com/nexus/content/groups/public/.error=
-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1551858731394
-https\://raw.githubusercontent.com/zhangdxchn/maven-repo/master/.lastUpdated=1551858921282
-https\://oss.sonatype.org/content/repositories/snapshots/.error=
-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1559970534993
